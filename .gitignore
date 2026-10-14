@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Datasets
+Datasets/
+datasets/
+GoPro/
+*.zip
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Generated experiment outputs
+results/
+outputs/
+logs/
+wandb/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
